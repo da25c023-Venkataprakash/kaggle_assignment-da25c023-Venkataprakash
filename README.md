@@ -1,8 +1,8 @@
 # DA5401 Kaggle Challenge – Metric Learning Project
-### Student Name: Venkataprakash
-### Roll Number: DA25C023
-### Course Code: DA5401
-### Assignment: End-Semester Kaggle Challenge (Metric Learning)
+### Venkataprakash
+### DA25C023
+###  DA5401
+### End-Semester Kaggle Challenge (Metric Learning)
 
 
 ## 2. Repository Structure
